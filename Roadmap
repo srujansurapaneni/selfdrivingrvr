@@ -1,0 +1,14 @@
+Data capture components:
+- Temp and Humid Ky015
+- Flame KY026
+- Light sensitivity KY018
+
+Drive components:
+- Avoidance KY032
+- Line tracker Ky033
+- PiCamera
+
+Output Components:
+- High buzz KY037
+- two color led KY011
+- laser KY008
